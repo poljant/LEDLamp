@@ -13,7 +13,7 @@
 #define IP_STATIC
 //#define DEBUG
 //#define DEBUG_ON
-#define POLISH
+//#define POLISH
 #define ROTARY_PIN1  D7
 #define ROTARY_PIN2 D5
 #define BUTTON_PIN  D6
