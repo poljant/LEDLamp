@@ -10,7 +10,7 @@
 #define pinLED LED_BUILTIN
 #define pinRelay1 D0
 //#define pinRelay2 D7
-#define IP_STATIC
+//#define IP_STATIC
 //#define DEBUG
 //#define DEBUG_ON
 //#define POLISH
